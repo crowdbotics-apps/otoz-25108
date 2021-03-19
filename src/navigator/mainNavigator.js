@@ -10,8 +10,10 @@ import BlankScreen1216167Navigator from "../features/BlankScreen1216167/navigato
 /**
  * new navigators can be imported here
  */ import Homepage1216253 from "../features/Homepage1216253/navigator"
+import SocialMediaLogin1216254 from "../features/SocialMediaLogin1216254/navigator"
 
 const AppNavigator = {
+  SocialMediaLogin1216254: { screen: SocialMediaLogin1216254 },
   Homepage1216253: { screen: Homepage1216253 },
   //@BlueprintNavigationInsertion
   BlankScreen1216167: { screen: BlankScreen1216167Navigator },
