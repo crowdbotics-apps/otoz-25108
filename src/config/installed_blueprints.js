@@ -13,9 +13,15 @@ export const installed_blueprints = [
     human_name: "Homepage1216253",
     access_route: "Homepage1216253"
   },
+
   {
     name: "SocialMediaLogin1216254",
     human_name: "SocialMediaLogin1216254",
     access_route: "SocialMediaLogin1216254"
+  },
+  {
+    name: "SocialMediaLogin1217198",
+    human_name: "SocialMediaLogin1217198",
+    access_route: "SocialMediaLogin1217198"
   }
 ]
