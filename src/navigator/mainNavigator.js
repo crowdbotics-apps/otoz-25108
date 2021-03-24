@@ -14,8 +14,10 @@ import SocialMediaLogin1216254 from "../features/SocialMediaLogin1216254/navigat
 import SocialMediaLogin1217198 from "../features/SocialMediaLogin1217198/navigator"
 import YourOrderDetails1217199 from "../features/YourOrderDetails1217199/navigator"
 import Frame71217234 from "../features/Frame71217234/navigator"
+import Frame71217984 from "../features/Frame71217984/navigator"
 
 const AppNavigator = {
+  Frame71217984: { screen: Frame71217984 },
   Frame71217234: { screen: Frame71217234 },
   YourOrderDetails1217199: { screen: YourOrderDetails1217199 },
   SocialMediaLogin1217198: { screen: SocialMediaLogin1217198 },

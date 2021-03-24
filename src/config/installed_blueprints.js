@@ -31,9 +31,15 @@ export const installed_blueprints = [
     human_name: "YourOrderDetails1217199",
     access_route: "YourOrderDetails1217199"
   },
+
   {
     name: "Frame71217234",
     human_name: "Frame71217234",
     access_route: "Frame71217234"
+  },
+  {
+    name: "Frame71217984",
+    human_name: "Frame71217984",
+    access_route: "Frame71217984"
   }
 ]
